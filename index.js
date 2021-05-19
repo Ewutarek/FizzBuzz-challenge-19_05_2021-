@@ -1,4 +1,4 @@
-(19_05_2021)/*
+/*
   FizzBuzz Challenge by Keratuwe Pheko
  */
 
